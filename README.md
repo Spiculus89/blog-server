@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Backend with authentication for creating, editing and deleting blog posts and comments
+> The project involves creating a module that allows users to register and create posts. The module also includes login and logout functionality. Only the post author is allowed to edit and delete their own posts. The home page displays a list of post titles, dates, authors, and comment counts, with standard pagination. Comments can be made on posts by any user, but guests are prompted to log in or register before commenting. The project utilizes the following technologies and dependencies: bcryptjs, body-parser, cors, dotenv, express, express-validator, jsonwebtoken, mongoose, and nodemon (as a dev dependency). The project was completed in 2 days and tested for functionality.
 
 ## Install
 
